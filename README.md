@@ -1,7 +1,7 @@
 Oie👋 Meu nome é Eduarda Rezzo!
 
 - 🔭 I’m currently working on: Bootcamp fullstack 
-- 🌱 I’m currently learning: Front End development (Java)
+- 🌱 I’m currently learning: Back End development (Java)
 - 📫 How to reach me: rezzoeduarda@gmail.com
 - 😄 Pronouns: She/Her, Ela/Dela
 - ⚡ Fun fact: Faço faculdade de tecnologia e estudo programação por fora ao mesmo tempo!
